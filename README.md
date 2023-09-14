@@ -1,2 +1,3 @@
 # the-mad-dresser
-The Mad Dresser Recommendation System Project
+<br>
+Author - Rajnish Kumar
